@@ -1,0 +1,10 @@
+The student with the highest mark is: ngoc minh
+The student with the lowest mark is: hai vu
+The average mark is: 5.63
+
+A histogram of the subject it1111 is: 
+A:*
+B:
+C:
+D:*
+F:*
